@@ -22,19 +22,19 @@ title: Raspbmc 安装成功
 
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/2.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/2.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/2.jpg"></a>
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/3.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/3.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/3.jpg"></a>
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/4.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/4.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/4.jpg"></a>
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/5.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/5.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/5.jpg"></a>
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/6.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/6.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/6.jpg"></a>
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/7.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/7.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/7.jpg"></a>
