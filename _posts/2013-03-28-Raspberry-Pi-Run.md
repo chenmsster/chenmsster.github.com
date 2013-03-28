@@ -18,7 +18,7 @@ title: Raspbmc 安装成功
 
 
 1. 
-<img src="{{site.baseurl}}/images/raspberrypi/2/1.jpg">
+<a href="{{site.baseurl}}/images/raspberrypi/2/1.jpg" target="_blank"> <img src="{{site.baseurl}}/images/raspberrypi/2/1.jpg"></a>
 
 
 1. 
